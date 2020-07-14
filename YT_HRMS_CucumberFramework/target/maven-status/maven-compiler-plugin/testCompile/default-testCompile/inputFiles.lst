@@ -1,0 +1,13 @@
+/Users/ilkhomdzhonishonkulov/eclipse-workspace/YT_HRMS_CucumberFramework/src/test/java/com/hrms/utils/Constants.java
+/Users/ilkhomdzhonishonkulov/eclipse-workspace/YT_HRMS_CucumberFramework/src/test/java/com/hrms/pages/AddEmpoyeeElements.java
+/Users/ilkhomdzhonishonkulov/eclipse-workspace/YT_HRMS_CucumberFramework/src/test/java/com/hrms/utils/ExcelUtility.java
+/Users/ilkhomdzhonishonkulov/eclipse-workspace/YT_HRMS_CucumberFramework/src/test/java/com/hrms/pages/DashboardPageElements.java
+/Users/ilkhomdzhonishonkulov/eclipse-workspace/YT_HRMS_CucumberFramework/src/test/java/com/hrms/steps/Hooks.java
+/Users/ilkhomdzhonishonkulov/eclipse-workspace/YT_HRMS_CucumberFramework/src/test/java/com/hrms/testbase/BaseClass.java
+/Users/ilkhomdzhonishonkulov/eclipse-workspace/YT_HRMS_CucumberFramework/src/test/java/com/hrms/pages/ContactDetails.java
+/Users/ilkhomdzhonishonkulov/eclipse-workspace/YT_HRMS_CucumberFramework/src/test/java/com/hrms/testbase/PageInitializer.java
+/Users/ilkhomdzhonishonkulov/eclipse-workspace/YT_HRMS_CucumberFramework/src/test/java/com/hrms/steps/PersonalDetailsSteps.java
+/Users/ilkhomdzhonishonkulov/eclipse-workspace/YT_HRMS_CucumberFramework/src/test/java/com/hrms/pages/LoginPageElemnts.java
+/Users/ilkhomdzhonishonkulov/eclipse-workspace/YT_HRMS_CucumberFramework/src/test/java/com/hrms/runners/TestRunner.java
+/Users/ilkhomdzhonishonkulov/eclipse-workspace/YT_HRMS_CucumberFramework/src/test/java/com/hrms/utils/CommonMethods.java
+/Users/ilkhomdzhonishonkulov/eclipse-workspace/YT_HRMS_CucumberFramework/src/test/java/com/hrms/utils/ConfigsReader.java
