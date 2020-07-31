@@ -1,0 +1,147 @@
+[1595695573.873][INFO]: Starting ChromeDriver 84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}) on port 31879
+[1595695573.873][INFO]: Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+[1595695574.285][INFO]: [b0d2ca0c1228d9cba20118fc792e2029] COMMAND InitSession {
+   "capabilities": {
+      "firstMatch": [ {
+         "browserName": "chrome",
+         "goog:chromeOptions": {
+            "args": [  ],
+            "extensions": [  ]
+         }
+      } ]
+   },
+   "desiredCapabilities": {
+      "browserName": "chrome",
+      "goog:chromeOptions": {
+         "args": [  ],
+         "extensions": [  ]
+      }
+   }
+}
+[1595695574.287][INFO]: Populating Preferences file: {
+   "alternate_error_pages": {
+      "enabled": false
+   },
+   "autofill": {
+      "enabled": false
+   },
+   "browser": {
+      "check_default_browser": false
+   },
+   "distribution": {
+      "import_bookmarks": false,
+      "import_history": false,
+      "import_search_engine": false,
+      "make_chrome_default_for_user": false,
+      "skip_first_run_ui": true
+   },
+   "dns_prefetching": {
+      "enabled": false
+   },
+   "profile": {
+      "content_settings": {
+         "pattern_pairs": {
+            "https://*,*": {
+               "media-stream": {
+                  "audio": "Default",
+                  "video": "Default"
+               }
+            }
+         }
+      },
+      "default_content_setting_values": {
+         "geolocation": 1
+      },
+      "default_content_settings": {
+         "geolocation": 1,
+         "mouselock": 1,
+         "notifications": 1,
+         "popups": 1,
+         "ppapi-broker": 1
+      },
+      "password_manager_enabled": false
+   },
+   "safebrowsing": {
+      "enabled": false
+   },
+   "search": {
+      "suggest_enabled": false
+   },
+   "translate": {
+      "enabled": false
+   }
+}
+[1595695574.287][INFO]: Populating Local State file: {
+   "background_mode": {
+      "enabled": false
+   },
+   "ssl": {
+      "rev_checking": {
+         "enabled": false
+      }
+   }
+}
+[1595695574.289][INFO]: Launching chrome: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --disable-background-networking --disable-client-side-phishing-detection --disable-default-apps --disable-hang-monitor --disable-popup-blocking --disable-prompt-on-repost --disable-sync --enable-automation --enable-blink-features=ShadowDOMV0 --enable-logging --load-extension=/var/folders/3s/n56z44zj691gfzk_5qbf9tqr0000gn/T/.com.google.Chrome.ibJC8j/internal --log-level=0 --no-first-run --password-store=basic --remote-debugging-port=0 --test-type=webdriver --use-mock-keychain --user-data-dir=/var/folders/3s/n56z44zj691gfzk_5qbf9tqr0000gn/T/.com.google.Chrome.ABhFSZ data:,
+[1595695576.121][INFO]: resolved localhost to ["127.0.0.1","::1"]
+[1595695576.292][INFO]: [b0d2ca0c1228d9cba20118fc792e2029] RESPONSE InitSession {
+   "capabilities": {
+      "acceptInsecureCerts": false,
+      "browserName": "chrome",
+      "browserVersion": "84.0.4147.89",
+      "chrome": {
+         "chromedriverVersion": "84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310})",
+         "userDataDir": "/var/folders/3s/n56z44zj691gfzk_5qbf9tqr0000gn/T/.com.google.Chrome.ABhFSZ"
+      },
+      "goog:chromeOptions": {
+         "debuggerAddress": "localhost:53110"
+      },
+      "networkConnectionEnabled": false,
+      "pageLoadStrategy": "normal",
+      "platformName": "mac os x",
+      "proxy": {
+
+      },
+      "setWindowRect": true,
+      "strictFileInteractability": false,
+      "timeouts": {
+         "implicit": 0,
+         "pageLoad": 300000,
+         "script": 30000
+      },
+      "unhandledPromptBehavior": "dismiss and notify",
+      "webauthn:virtualAuthenticators": true
+   },
+   "sessionId": "b0d2ca0c1228d9cba20118fc792e2029"
+}
+[1595695576.411][INFO]: [b0d2ca0c1228d9cba20118fc792e2029] COMMAND SetTimeouts {
+   "implicit": 15000
+}
+[1595695576.411][INFO]: [b0d2ca0c1228d9cba20118fc792e2029] RESPONSE SetTimeouts
+[1595695576.417][INFO]: [b0d2ca0c1228d9cba20118fc792e2029] COMMAND Navigate {
+   "url": "http://166.62.36.207/humanresources/symfony/web/index.php/auth/login"
+}
+[1595695576.418][INFO]: Waiting for pending navigations...
+[1595695576.419][INFO]: Done waiting for pending navigations. Status: ok
+[1595695576.879][INFO]: Waiting for pending navigations...
+[1595695577.984][INFO]: Done waiting for pending navigations. Status: ok
+[1595695577.984][INFO]: [b0d2ca0c1228d9cba20118fc792e2029] RESPONSE Navigate
+[1595695578.113][INFO]: [b0d2ca0c1228d9cba20118fc792e2029] COMMAND Screenshot {
+
+}
+[1595695578.113][INFO]: Waiting for pending navigations...
+[1595695578.148][INFO]: Done waiting for pending navigations. Status: ok
+[1595695578.811][INFO]: Waiting for pending navigations...
+[1595695578.812][INFO]: Done waiting for pending navigations. Status: ok
+[1595695578.812][INFO]: [b0d2ca0c1228d9cba20118fc792e2029] RESPONSE Screenshot "iVBORw0KGgoAAAANSUhEUgAACWAAAAU2CAYAAAAROo3wAAABKWlDQ1BTa2lhAAAokX2Rv0vDQBTHP1YHRYeKig4OmcTFH42mtuBiq1TXVqG6pWkIYhtDmlJ3VwcnZ2f/ATdnd8HJ1V0QdPV7dkhB4nvc3ee+997duzvILSHL5aEbJnG9VrGap2cWI+Z6vYhsG4OvV..."
+[1595695578.894][INFO]: [b0d2ca0c1228d9cba20118fc792e2029] COMMAND Screenshot {
+
+}
+[1595695578.894][INFO]: Waiting for pending navigations...
+[1595695578.895][INFO]: Done waiting for pending navigations. Status: ok
+[1595695579.366][INFO]: Waiting for pending navigations...
+[1595695579.372][INFO]: Done waiting for pending navigations. Status: ok
+[1595695579.372][INFO]: [b0d2ca0c1228d9cba20118fc792e2029] RESPONSE Screenshot "iVBORw0KGgoAAAANSUhEUgAACWAAAAU2CAYAAAAROo3wAAABKWlDQ1BTa2lhAAAokX2Rv0vDQBTHP1YHRYeKig4OmcTFH42mtuBiq1TXVqG6pWkIYhtDmlJ3VwcnZ2f/ATdnd8HJ1V0QdPV7dkhB4nvc3ee+997duzvILSHL5aEbJnG9VrGap2cWI+Z6vYhsG4OvV..."
+[1595695579.469][INFO]: [b0d2ca0c1228d9cba20118fc792e2029] COMMAND Quit {
+
+}
+[1595695579.584][INFO]: [b0d2ca0c1228d9cba20118fc792e2029] RESPONSE Quit
