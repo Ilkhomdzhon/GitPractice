@@ -16,6 +16,7 @@ public class PersonalDetailsSteps extends CommonMethods {
 	@Given("I should be able to click on PIM button")
 	public void i_should_be_able_to_click_on_PIM_button() {
 		jsClick(dashboard.PIM);
+		
 
 	}
 
